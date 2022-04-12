@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aerospikeExample-JavaClient/aerospikeExample.iml" filepath="$PROJECT_DIR$/aerospikeExample-JavaClient/aerospikeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aerospikeExample-JavaClient.iml" filepath="$PROJECT_DIR$/.idea/aerospikeExample-JavaClient.iml" />
+    </modules>
+  </component>
+</project>
